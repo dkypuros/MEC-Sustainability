@@ -14,6 +14,10 @@ Reference: [ETSI GS MEC 016 V2.1.1 (2019-04](https://www.etsi.org/deliver/etsi_g
 
 **Example:** Goal 7 - Ensure access to affordable, reliable, sustainable and modern energy for all
 
+**Use Case for MSS Goal 7.1** : Application developers can accuractly measure the impact of there application on estimated physical equipment, and consider all options in MEC Application workloads.
+
+ETSI Section 6.2.2
+### Data Model > Resource Data Types > Application List
 
 |  Attribute name |  Data type |  (MSS) | Description  |
 |---|---|---|---|
