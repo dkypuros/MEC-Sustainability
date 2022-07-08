@@ -1,6 +1,11 @@
 # MEC-Sustainability
 
-[DRAFT]
+***Special Note:***
+The focal point of this project is the MEC Service located in the middle of the architecture near the "Mp1" interface. This service is not a telco provided MEC service (see MEC Service located within the MEC Platform box).
+
+ETSI MEC Architecture Relevant Design:
+
+![alt text](https://github.com/dkypuros/MEC-Sustainability/raw/main/assets/ETSI-MSS.png?raw=true)
 
 ## The Goal
 This goal of MEC sustainability is to build ETSI compliant, **3rd Party hosted MEC services** for sustainability transparency. It is the hope of this project that this service can bring additional awareness to the application developer community about the impacts of software, infrastructure, and location of compute can have on the world we live in.
