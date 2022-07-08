@@ -1,9 +1,15 @@
 # MEC-Sustainability
 
 ***Special Note:***
-The focal point of this project is the MEC Service located in the middle of the architecture near the "Mp1" interface. This service is not a telco provided MEC service (see MEC Service located within the MEC Platform box).
 
-ETSI MEC Architecture Relevant Design:
+Mp1 MEC Service:
+ - 3rd Party Hosted Service for MEC applications
+The focal point of this project are the MEC Service located in the middle of the architecture (see image below) near the "Mp1" interface located within the MEC host (but not the MEC platform box). 
+
+MEC Platform - MEC Service aka "Telco MEC Services"
+- As a point of differenctial, the MEC service in view in this repo is not a telco provided MEC service (see MEC Service located within the MEC Platform box).
+
+## ETSI MEC Architecture Relevant Design:
 
 ![alt text](https://github.com/dkypuros/MEC-Sustainability/raw/main/assets/ETSI-MSS.png?raw=true)
 
